@@ -1,0 +1,12 @@
+{
+    "AccessToken": "",
+    "RefreshToken": "",
+    "AccessTokenExpires": "0001-01-01T00:00:00",
+    "RefreshTokenExpires": "0001-01-01T00:00:00",
+    "AppKey": "your_app_key_here",
+    "Secret": "your_secret_here",
+    "RedirectUri": "your_callback_url_here",
+    "Username": "your_username_here",
+    "Password": "your_password_here"
+  }
+  
